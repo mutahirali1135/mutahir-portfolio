@@ -18,9 +18,15 @@ const projects = [
   },
   {
     title: "Social Courses",
-    category: "Media Posts",
-    tools: "Canva, Freepik, Grok",
+    category: "Website",
+    tools: "Canva, Grok, HTML, CSS, Bootstrap",
     image: "/images/course.png",
+  },
+  {
+    title: "Robok Site",
+    category: "Website",
+    tools: "HTML, CSS, JavaScript, Bootstrap",
+    image: "/images/robok.png",
   },
 ];
 

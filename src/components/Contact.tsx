@@ -14,6 +14,12 @@ const Contact = () => {
                 mutahirali3535@gmail.com
               </a>
             </p>
+            <h4>Mobile No.</h4>
+            <p>
+              <a href="tel:00923013611135" data-cursor="disable">
+                0301-3611135
+              </a>
+            </p>
             <h4>Education</h4>
             <p>BS in Software Engineering</p>
           </div>
